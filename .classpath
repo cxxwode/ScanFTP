@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="F:/java包/Log4j/log4j-1.2.16.jar" sourcepath="D:/software/mavenFactory/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar"/>
+	<classpathentry kind="lib" path="F:/java包/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/java包/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/java包/commons-net-ftp-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
